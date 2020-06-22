@@ -28,11 +28,11 @@ a {
 .topleft-title {
   font-size: 1.5rem;
   font-family: 'Philosopher', serif;
-  margin-top: 30px;
+  padding-top: 1rem;
 }
 .main-nav {
   display: flex;
-  margin-top: 30px;
+  padding-top: 1rem;
   font-size: 1.25rem;
   list-style: none;
 }
@@ -49,7 +49,7 @@ a {
 /* HOME CONTENT
 ---------------------------- */
 #home {
-  background-image: url(../images/teaset.jpg);
+  background-image: url(../images/teaset2.jpg);
   min-height: 100vh;
 }
 .fullbackground {
@@ -245,7 +245,7 @@ right: 0;
 z-index: -1;
 }
 #pages {
-  background-image: url(../images/teaset.jpg);
+  background-image: url(../images/teaset2.jpg);
   height: 270px;
   margin-bottom: 5rem;
 }
