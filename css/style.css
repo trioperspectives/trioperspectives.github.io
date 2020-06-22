@@ -164,7 +164,7 @@ a {
 ----------------------------- */
 #guitar-image {
   margin-top: 30px;
-  background-image: url(../images/guitar.heic);
+  background-image: url(../images/guitar.HEIC);
   height: 100vh;
 }
 #guitar-image .homepage-writing {
