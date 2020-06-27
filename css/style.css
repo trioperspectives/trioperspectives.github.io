@@ -294,9 +294,14 @@ z-index: -1;
 .page-title-borderline {
   border-bottom: 2px solid #333;
 }
-.potato-writing {
+.potato-writing p {
   font-family: 'Philosopher', serif;
   font-size: 2rem;
+  font-weight: normal;
+}
+.potato-writing h2 {
+  font-family: 'Philosopher', serif;
+  font-size: 3rem;
   font-weight: normal;
 }
 .banner {
