@@ -5,7 +5,7 @@
 html {
   font-size: 100%;
 }
-body{
+body {
   font-family: "Times New Roman", Times, serif;
   line-height: 1.7;
   color: #432;
@@ -78,11 +78,6 @@ a {
   margin: 10px 0 0px;
   color: white;
   padding-bottom: 15px;
-}
-.homepage-writing {
-  font-family: 'Philosopher', serif;
-  font-size: 2rem;
-  font-weight: normal;
 }
 .large-text {
   font-family: 'Philosopher', serif;
@@ -167,7 +162,7 @@ a {
   background-image: url(../images/guitar2.jpg);
   height: 100vh;
 }
-#guitar-image .homepage-writing {
+#guitar-image .universal-writing {
   color: white;
   padding-top: 5rem;
 }
